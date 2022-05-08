@@ -1,0 +1,23 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prax0724/leetcode.git"
+  },
+  "keywords": [],
+  "author": "Prakhar Srivastav <prakhar.srivastav@appfire.com> (http://appfire.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prax0724/leetcode/issues"
+  },
+  "homepage": "https://github.com/prax0724/leetcode#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
